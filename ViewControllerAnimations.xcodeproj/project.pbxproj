@@ -16,6 +16,7 @@
 		61F73B651BA0A0020022C462 /* ViewControllerAnimationsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 61F73B641BA0A0020022C462 /* ViewControllerAnimationsTests.m */; };
 		61F73B711BA0A76A0022C462 /* OpcoesControllerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 61F73B6F1BA0A76A0022C462 /* OpcoesControllerViewController.m */; };
 		61F73B721BA0A76A0022C462 /* OpcoesControllerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 61F73B701BA0A76A0022C462 /* OpcoesControllerViewController.xib */; };
+		61F73B741BA0B68C0022C462 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 61F73B731BA0B68C0022C462 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		61F73B6E1BA0A76A0022C462 /* OpcoesControllerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OpcoesControllerViewController.h; sourceTree = "<group>"; };
 		61F73B6F1BA0A76A0022C462 /* OpcoesControllerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OpcoesControllerViewController.m; sourceTree = "<group>"; };
 		61F73B701BA0A76A0022C462 /* OpcoesControllerViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OpcoesControllerViewController.xib; sourceTree = "<group>"; };
+		61F73B731BA0B68C0022C462 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 		61F73B3C1BA0A0020022C462 = {
 			isa = PBXGroup;
 			children = (
+				61F73B731BA0B68C0022C462 /* README.md */,
 				61F73B471BA0A0020022C462 /* ViewControllerAnimations */,
 				61F73B611BA0A0020022C462 /* ViewControllerAnimationsTests */,
 				61F73B461BA0A0020022C462 /* Products */,
@@ -230,6 +233,7 @@
 			files = (
 				61F73B511BA0A0020022C462 /* ViewController.m in Sources */,
 				61F73B4E1BA0A0020022C462 /* AppDelegate.m in Sources */,
+				61F73B741BA0B68C0022C462 /* README.md in Sources */,
 				61F73B711BA0A76A0022C462 /* OpcoesControllerViewController.m in Sources */,
 				61F73B4B1BA0A0020022C462 /* main.m in Sources */,
 			);
